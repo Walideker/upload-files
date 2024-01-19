@@ -1,0 +1,22 @@
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+form{
+  border: 1px solid black;
+  width: 400px;
+  height: 250px;  
+  text-align: center;
+  margin: 5px;
+}
+.done{
+  display: inline-block;
+  width: 150px;
+  height:80px;
+  text-align: center;
+  margin-right:2px;
+}
